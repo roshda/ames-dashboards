@@ -13,6 +13,11 @@ using
 - linear regression
 - matplotlib
 
+
+data from LaGuardia, Charlotte Douglass, Newark international airports
+
+
+
 NASA Ames Research Center. 07.20.22. 
 
 all work by Roshni D.
