@@ -1,3 +1,3 @@
-NASA Ames Research Center. 07.20.22. Data is proprietary
+NASA Ames Research Center. Data is proprietary
 
 all work by Roshni D.
